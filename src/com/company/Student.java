@@ -1,2 +1,6 @@
-package com.company;public class Student {
+package com.company;
+
+public class Student {
+    private int id;
+    private String name;
 }
